@@ -3,4 +3,4 @@
 Testnet explorer
 monad
 bless
-union
+union testnet
